@@ -7,7 +7,13 @@ var email = 'umayrnordien@gmail.com';
 
 whois = [
   "<br>",
-
+  " Umayr Nordien, an enigmatic individual,",
+  "embarks on the journey of front-end development, driven by self-belief and unwavering discipline.",
+  "His expertise spans HTML/CSS, WordPress, JavaScript, PHP, Vue framework,",
+  "and the intricate realms of UI/UX design, infused with an artistic touch.",
+  " In the shadowy corners of his mysterious journey,",
+  "Umayr explores the enigmatic path of personal and professional growth.",
+  "Join him as he ventures into the unknown.",
   "<br>"
 ];
 
